@@ -54,3 +54,4 @@ My eye for patterns that may be overlooked by most has led me to develop a passi
 - <a href="https://www.linkedin.com/pulse/splunk-dashboard-web-traffic-logs-adeoluwa-adeleke-flvpf">Apache Logs Dashboard</a>
 - <a href="https://drive.google.com/drive/folders/1P2b6gkQAbgD4Ubq5s-t8g_rN9NKdBGNz">Home Cybersecurity Lab</a>
 - <a href="https://docs.google.com/document/d/1MWJsCLbDUtNZhcthhM9JfR7l4rDrinlw/edit?usp=drive_link&ouid=107816686578512272416&rtpof=true&sd=true">SOC Metrics and Detection Improvement</a>
+- <a href="https://github.com/Davico007/Zigzag_finder">Zigzag Finder</a>
